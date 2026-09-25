@@ -26,6 +26,3 @@ Prompt engineering concepts (role prompting, few-shot examples, chain-of-thought
 - Student Name : Samaira Pati
 - Roll No. : 23051944
 - Course : GENAI AND PROMPT ENGINEERING
-- Google Drive folder link :
-- GitHub repository link :
-- Hosted/live project link :
